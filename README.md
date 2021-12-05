@@ -21,3 +21,4 @@ HTML、CSS、Ruby、Ruby on Rails
 - kaminariを用いたページング機能
 - マイページ作成
 - ユーザー編集画面作成
+- バリデーション
