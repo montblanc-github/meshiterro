@@ -18,3 +18,4 @@ HTML、CSS、Ruby、Ruby on Rails
 - 投稿削除機能
 - コメント機能/コメント削除機能
 - いいね機能
+- kaminariを用いたページング機能
