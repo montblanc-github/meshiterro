@@ -14,3 +14,4 @@ HTML、CSS、Ruby、Ruby on Rails
 - current_userによるユーザー情報取得
 - 投稿データのストロングパラメータ
 - 投稿一覧画面の作成
+- 投稿画像の詳細ページ
