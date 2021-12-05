@@ -6,3 +6,5 @@ Cloud9
 HTML、CSS、Ruby、Ruby on Rails
 ## 学習内容
 ・データベース設計
+・ユーザー登録画面の作成/編集
+・
