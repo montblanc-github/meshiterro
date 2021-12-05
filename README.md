@@ -23,3 +23,4 @@ HTML、CSS、Ruby、Ruby on Rails
 - ユーザー編集画面作成
 - バリデーション
 - 部分テンプレート
+- Bootstrap
